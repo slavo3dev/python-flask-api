@@ -14,7 +14,6 @@ def home():
 @app.route("/test", methods = ["POST", "GET"])
 def test():
     if request.method == "GET":
-        print ("PRINT HELLO WORLD")
         return jsonify("RETURNING HELLO WORLD")
 
 app.run(port=5000)
