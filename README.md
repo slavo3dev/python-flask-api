@@ -1,2 +1,2 @@
 # python-flask-api
-Flask &amp; Python
+Flask Python
