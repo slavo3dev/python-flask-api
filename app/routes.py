@@ -15,3 +15,6 @@ def health_check():
     """
     app.logger.info("Health Check!")
     return Response("All Good!", status=200)
+
+
+
