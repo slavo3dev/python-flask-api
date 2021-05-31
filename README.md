@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Install
 
 You can use a virtual environment (conda, venv, etc):
@@ -28,7 +28,3 @@ python -m run
 ```
 curl -i "http://127.0.0.1:5000/health-check"
 ```
-=======
-# python-flask-api
-Flask Python
->>>>>>> 7642ae983a7fcd8133439aeba0b7859339537ae4
